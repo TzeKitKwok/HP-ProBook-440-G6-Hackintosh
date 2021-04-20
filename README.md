@@ -13,3 +13,14 @@ OpenCore Bootloader running macOS Catalina 10.15 and macOS Big Sur 11.0 on the H
 | 显示器    | 内建显示器 13.9 - 英寸 |
 | 声卡     | Realtek ALC236 |
 | 网卡     | Broadcom 943602CS |
+
+## BIOS设置
+
+- Disable Virtualization Technology for Directed I/O (VTd)
+- Disable Media Card Reader
+- 
+
+## 注意事项
+
+- 无线网卡驱动、开机启动盘选项需自行添加开启
+
